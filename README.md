@@ -1,11 +1,10 @@
-JavaScript React Base Demo (Latest)
-===================================
+JavaScript React Component Test Demo
+====================================
 
-Always update with latest versions and technologies.
+如何使用enzyme来测试react component
 
 ```
 npm install
-npm run dev
+npm test
 ```
 
-Then visit <http://localhost:8080/>.
